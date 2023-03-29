@@ -1,6 +1,6 @@
 ---
 name: Sponsor Bounty Template
-about: Use this template to create a new bounty for the ETHBrno² hackathon.
+about: Use this template to create a new bounty for the EthereumZuri.ch hackathon.
 title: "[BOUNTY] Project Name - Bounty Name/Task"
 labels: sponsor-bounty
 ---
@@ -13,7 +13,7 @@ Add a short introduction to your project and the scope of your bounty here.
 
 How does a hacker qualify for this bounty and what do they have to do to hand the bounty in? 
 
-We recommend asking the hackers to post the link to their devpost sumbission as a comment to the issue before the hackathon deadline (Sun, Nov 13, 11AM Prague time (CET, GMT+2)) in order to hand their submission in.
+We recommend asking the hackers to post the link to their devpost sumbission as a comment to the issue before the hackathon deadline (Sun, Apr 16, 11AM Zurich time (GMT+2)) in order to hand their submission in.
 
 ## Additional Resources 🌐
 
