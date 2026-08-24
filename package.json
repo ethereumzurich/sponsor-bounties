@@ -1,0 +1,9 @@
+{
+  "name": "dataverse-notes-tool",
+  "version": "1.0.0",
+  "dependencies": {
+    "@dataverse/sdk": "latest",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
